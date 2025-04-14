@@ -43,7 +43,7 @@
  
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosh-s&show_icons=true&locale=en&layout=compact&theme=holi&card_width=500" alt="yosh-s" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosh-s&show_icons=true&locale=en&layout=compact&theme=holi&card_width=500&card_height=700" alt="yosh-s" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yosh-s&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&theme=holi" alt="yosh-s" /></p>
 
