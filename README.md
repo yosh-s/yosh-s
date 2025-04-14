@@ -2,15 +2,6 @@
 <h3 align="center">Electrical Engineering Undergraduate</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yosh-s&label=Profile%20Views&color=brightgreen&style=flat-square" alt="yosh-s" /> </p>
 
-
-- 🔭 I’m currently working on **Link2Memo Mobile App**
-
-- 🌱 I’m currently learning **Automation & Machine Learning**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sanuda-ats.github.io/Portfolio/)
-
-- 📫 How to reach me **sanuda.ats@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yoshmika-sandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoshmika sandeepa" height="30" width="40" /></a>
@@ -34,9 +25,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-<h3 align="left">Frameworks:</h3>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+
 
 <h3 align="left">Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
@@ -54,8 +43,8 @@
  
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanuda-ats&show_icons=true&locale=en&layout=compact&theme=holi&card_width=500" alt="sanuda-ats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosh-s&show_icons=true&locale=en&layout=compact&theme=holi&card_width=500" alt="yosh-s" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanuda-ats&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&theme=holi" alt="sanuda-ats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yosh-s&rank_icon=github&show=prs_merged_percentage&hide=contribs,issues&show_icons=true&custom_title=Open%20Source%20Contributions&theme=holi" alt="yosh-s" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanuda-ats" alt="sanuda-ats" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yosh-s" alt="yosh-s" /></a> </p>
