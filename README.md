@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanuda Amasith</h1>
+<h1 align="center">Hi 👋, I'm Yoshmika Sandeepa</h1>
 <h3 align="center">Electrical Engineering Undergraduate</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yosh-s&label=Profile%20Views&color=brightgreen&style=flat-square" alt="yosh-s" /> </p>
 
@@ -17,8 +17,10 @@
 <a href="https://fb.com/yoshmika.sandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yoshmika.sandeepa" height="30" width="40" /></a>
 <a href="https://instagram.com/_yoshmika_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yoshmika_" height="30" width="40" /></a>
   <a href="mailto:yoshmika2002@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" height="30" width="40" />
 </a>
+
+
 
 </p>
 
