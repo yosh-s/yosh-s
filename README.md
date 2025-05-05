@@ -73,8 +73,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/>
   </a>
 
-  <a href="https://www.ni.com/en-us/shop/labview.html" target="_blank" rel="noreferrer">
-    <img src="https://symbols-electrical.getvecta.com/stencil_262/59_national-instruments-icon.b3cb70945d.svg" alt="labview" width="40" height="40"/>
+  <a href="https://www.ni.com/en.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/National_Instruments_logo_2020.svg/768px-National_Instruments_logo_2020.svg.png?20221204184351" alt="labview" width="40" height="40"/>
   </a>
 </p>
 
